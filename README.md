@@ -15,5 +15,5 @@ And just like so, he carries on at full throttle seeking the fulfillment of his 
 https://www.linkedin.com/in/tiago-patricio/
 
 
-# Contact me at:
+# Contact me
 tiago.rodrigues.patricio@gmail.com
