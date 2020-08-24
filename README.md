@@ -10,4 +10,4 @@ Many have passed and surely many more shall come but the 3 headed beast at hand 
 
 And just like so, he carries on at full throttle seeking the fulfillment of his destiny..
 
-TO BE CONTINUED..
+
