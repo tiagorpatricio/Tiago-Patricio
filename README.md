@@ -1,14 +1,6 @@
-Hi, I'm Tiago Patrício. I am a junior full-stack developer.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Patricio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Patricio)](https://github.com/anuraghazra/github-readme-stats)
 
-I attended Academia de Codigo, where I studied full-stack development for an immersive and intensive 14-weeks Bootcamp. Also, I was the class president for the 49th class in 2020.
-
-Here you can find all the personal projects I developed and projects developed for academic purposes.
-
-# Contact me
-tiago.rodrigues.patricio@gmail.com
-
-# LinkedIn Profile
-https://www.linkedin.com/in/tiago-patricio/
 
 
 
