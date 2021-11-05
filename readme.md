@@ -1,4 +1,4 @@
-### Hi there, I'm Tiago! 👋🏼
+##### Hi there, I'm Tiago! 👋🏼
 
 I'm a portuguese australian software developer who is always eager to learn and build new things. 
 
